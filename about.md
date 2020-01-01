@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+카트라이더 리그 랭킹 블로그 v0.3
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[kart.rider.ranking@gmail.com](mailto:kart.rider.ranking@gmail.com)
