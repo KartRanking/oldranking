@@ -15,7 +15,7 @@ permalink: /about/
 ### 참고 자료
 
 - [https://trueskill.org/](https://trueskill.org/): 분석에 사용된 패키지의 웹 문서.
-- [http://papers.nips.cc/paper/3079-trueskilltm-a-bayesian-skill-rating-system.pdf](http://papers.nips.cc/paper/3079-trueskilltm-a-bayesian-skill-rating-system.pdf) Microsoft Research의 NIPS 2007 페이퍼.
+- [http://papers.nips.cc/paper/3079-trueskilltm-a-bayesian-skill-rating-system.pdf](http://papers.nips.cc/paper/3079-trueskilltm-a-bayesian-skill-rating-system.pdf) Microsoft Research의 NIPS 2006 페이퍼.
 - [http://www.moserware.com/2010/03/computing-your-skill.html](http://www.moserware.com/2010/03/computing-your-skill.html) Jeff Moser의 친절한 설명 블로그.
 - [http://www.moserware.com/assets/computing-your-skill/The%20Math%20Behind%20TrueSkill.pdf](http://www.moserware.com/assets/computing-your-skill/The%20Math%20Behind%20TrueSkill.pdf) Jeff Moser의 TrueSkill의 수학적인 내용을 친절히 설명하는 페이퍼.
 
