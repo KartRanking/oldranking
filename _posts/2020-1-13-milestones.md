@@ -1,4 +1,8 @@
-## Milestones
+---
+layout: post
+title: Milestones
+---
+
 모든 기록은 본 블로그에서 커버하는 데이터 기준.
 
 - 2020-1-11: ROX [송용준](../songyongjun), [이재혁](../ijaehyeok), [한승철](../hanseungcheol), 스피드 팀전 100트랙 달성. 
