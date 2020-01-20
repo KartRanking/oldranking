@@ -22,6 +22,6 @@ permalink: /about/
 
 ### Contact me
 
-e-mail: [kart.rider.ranking@gmail.com](mailto:kart.rider.ranking@gmail.com)
-instagram: @kartranking
-github: @KartRanking
+- e-mail: [kart.rider.ranking@gmail.com](mailto:kart.rider.ranking@gmail.com)
+- instagram: @kartranking
+- github: @KartRanking
