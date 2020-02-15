@@ -5,7 +5,7 @@ title: 개인 별 랭킹 - 김상수
 
 김상수
 
-last updated: 2-8-2020
+last updated: 2-15-2020
 
 ### [개인전: 종합](../singles-full)
 
