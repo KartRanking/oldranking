@@ -4,7 +4,7 @@ title: Milestones
 ---
 
 마일스톤: 모든 기록은 본 블로그에서 커버하는 데이터 기준.
-- 2020-2-15: [이재혁](../ijaehyeok)과 [유창현](../yuchanghyeon), 개인전 200트랙 달성.
+- 2020-2-15: [이재혁](../ijaehyeok)과 [유창현](../yuchanghyeon), 개인전 200트랙 달성. [신종민](../shinjongmin), 개인전 100트랙 달성.
 - 2020-1-22: [유관영](../yugwanyeong)과 [배성빈](../baeseongbin), 팀전 100트랙 달성. [이재혁](../ijaehyeok), 팀전 200트랙 달성.
 - 2020-1-18: [배성빈](../baeseongbin)과 [정승하](../jeongseungha), 개인전 100트랙 달성.
 - 2020-1-18: [이재인](../ijaein), 팀전 100트랙 승리.
