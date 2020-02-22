@@ -5,7 +5,7 @@ title: 개인 별 랭킹 - 현록빈
 
 현록빈
 
-last updated: 2-15-2020
+last updated: 2-22-2020
 
 ### [개인전: 종합](../singles-full)
 
