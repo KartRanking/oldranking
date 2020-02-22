@@ -5,7 +5,7 @@ title: 개인 별 랭킹 - 김택환
 
 김택환
 
-last updated: 2-15-2020
+last updated: 2-22-2020
 
 
 ### 팀전
