@@ -5,7 +5,7 @@ title: 개인 별 랭킹 - 김은찬
 
 김은찬
 
-last updated: 2-22-2020
+last updated: 5-9-2020
 
 
 ### 팀전

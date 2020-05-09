@@ -5,7 +5,7 @@ title: 개인 별 랭킹 - 김승래
 
 김승래
 
-last updated: 2-22-2020
+last updated: 5-9-2020
 
 ### [개인전: 종합](../singles-full)
 
