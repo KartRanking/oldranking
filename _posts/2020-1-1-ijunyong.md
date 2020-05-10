@@ -5,7 +5,7 @@ title: 개인 별 랭킹 - 이준용
 
 이준용
 
-last updated: 5-9-2020
+last updated: 5-10-2020
 
 ### [개인전: 종합](../singles-full)
 

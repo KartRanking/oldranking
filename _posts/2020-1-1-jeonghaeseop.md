@@ -5,7 +5,7 @@ title: 개인 별 랭킹 - 정해섭
 
 정해섭
 
-last updated: 5-9-2020
+last updated: 5-10-2020
 
 ### [개인전: 종합](../singles-full)
 

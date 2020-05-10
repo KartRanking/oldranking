@@ -5,7 +5,7 @@ title: 개인 별 랭킹 - 이현진
 
 이현진
 
-last updated: 5-9-2020
+last updated: 5-10-2020
 
 
 ### 팀전
