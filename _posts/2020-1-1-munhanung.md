@@ -5,7 +5,7 @@ title: 개인 별 랭킹 - 문한웅
 
 문한웅
 
-last updated: 5-10-2020
+last updated: 5-14-2020
 
 
 ### 팀전
