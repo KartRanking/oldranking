@@ -5,7 +5,7 @@ title: 개인 별 랭킹 - 조다훈
 
 조다훈
 
-last updated: 5-10-2020
+last updated: 5-14-2020
 
 ### [개인전: 종합](../singles-full)
 
