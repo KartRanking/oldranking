@@ -5,7 +5,7 @@ title: 개인 별 랭킹 - 최유성
 
 최유성
 
-last updated: 5-14-2020
+last updated: 5-16-2020
 
 
 ### 팀전
