@@ -5,7 +5,7 @@ title: 개인 별 랭킹 - 박현수B
 
 박현수B
 
-last updated: 5-16-2020
+last updated: 5-20-2020
 
 ### [개인전: 종합](../singles-full)
 
