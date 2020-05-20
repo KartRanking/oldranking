@@ -5,7 +5,7 @@ title: 개인 별 랭킹 - 장진형
 
 장진형
 
-last updated: 5-16-2020
+last updated: 5-20-2020
 
 
 ### 팀전

@@ -5,7 +5,7 @@ title: 개인 별 랭킹 - 석주엽
 
 석주엽
 
-last updated: 5-16-2020
+last updated: 5-20-2020
 
 
 ### 팀전
