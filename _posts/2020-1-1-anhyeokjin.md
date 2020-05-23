@@ -5,7 +5,7 @@ title: 개인 별 랭킹 - 안혁진
 
 안혁진
 
-last updated: 5-20-2020
+last updated: 5-23-2020
 
 
 ### 팀전

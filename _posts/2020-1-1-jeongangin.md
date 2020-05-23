@@ -5,7 +5,7 @@ title: 개인 별 랭킹 - 전강인
 
 전강인
 
-last updated: 5-20-2020
+last updated: 5-23-2020
 
 ### [개인전: 종합](../singles-full)
 

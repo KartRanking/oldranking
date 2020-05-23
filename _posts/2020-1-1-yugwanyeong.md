@@ -5,7 +5,7 @@ title: 개인 별 랭킹 - 유관영
 
 유관영
 
-last updated: 5-20-2020
+last updated: 5-23-2020
 
 
 ### 팀전

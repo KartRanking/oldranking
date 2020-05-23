@@ -5,7 +5,7 @@ title: 개인 별 랭킹 - 사상훈
 
 사상훈
 
-last updated: 5-20-2020
+last updated: 5-23-2020
 
 ### [개인전: 종합](../singles-full)
 
