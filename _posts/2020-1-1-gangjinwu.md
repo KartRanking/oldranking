@@ -5,7 +5,7 @@ title: 개인 별 랭킹 - 강진우
 
 강진우
 
-last updated: 5-20-2020
+last updated: 5-23-2020
 
 ### [개인전: 종합](../singles-full)
 
