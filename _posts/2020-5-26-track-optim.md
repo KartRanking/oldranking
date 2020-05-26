@@ -19,7 +19,7 @@ title: 사설 - 개인전 50점/80점 선취제애 필요한 최대 트랙의 �
 
 댓글에 정답을 외친 사람이 있었지만 안타깝게도 글쓴이는 복수의 [그리디 알고리즘(greedy algorithm)](https://en.wikipedia.org/wiki/Greedy_algorithm) 풀이와 [신기해 보이는 화면 캡처](https://gall.dcinside.com/board/view/?id=kart&no=1972908)에 낚여 오답으로 이끌렸다고 한다. 
 그리디 알고리즘은 최적해를 보장하지 않기 때문에 으로 이런 최적화 문제에 그리디 알고리즘을 쓰려면 이 알고리즘이 최적해를 찾는다는 것을 보여야 하는데 코딩을 시도한 사람들은 이 부분을 놓쳤다.
-이런 문제에 프로그래머들이 시도해볼만한 다른 방법으로는 [동적 프로그래밍(dynamic programming)](https://en.wikipedia.org/wiki/Dynamic_programming)이 있지만 [이 문제에 적용하기에는 너무 시간이 오래 걸린](https://gall.dcinside.com/board/view/?id=kart&no=1972908).
+이런 문제에 프로그래머들이 시도해볼만한 다른 방법으로는 [동적 프로그래밍(dynamic programming)](https://en.wikipedia.org/wiki/Dynamic_programming)이 있지만 [이 문제에 적용하기에는 너무 시간이 오래 걸린다](https://gall.dcinside.com/board/view/?id=kart&no=1972908).
 
 ## 풀이
 
