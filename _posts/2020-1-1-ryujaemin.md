@@ -5,7 +5,7 @@ title: 개인 별 랭킹 - 류재민
 
 류재민
 
-last updated: 5-23-2020
+last updated: 6-8-2020
 
 
 ### 팀전
