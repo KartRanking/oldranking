@@ -5,7 +5,7 @@ title: 개인 별 랭킹 - 윤정현
 
 윤정현
 
-last updated: 5-23-2020
+last updated: 6-8-2020
 
 ### [개인전: 종합](../singles-full)
 

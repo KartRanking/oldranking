@@ -5,7 +5,7 @@ title: 개인 별 랭킹 - 최영훈
 
 최영훈
 
-last updated: 5-23-2020
+last updated: 6-8-2020
 
 ### [개인전: 종합](../singles-full)
 
