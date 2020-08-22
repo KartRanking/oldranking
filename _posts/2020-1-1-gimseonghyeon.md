@@ -7,7 +7,7 @@ title: 개인 별 랭킹 - 김성현
 개인 별 랭킹 - 김성현
 
 
-last updated: 7-11-2020
+last updated: 8-22-2020
 
 
 ### 팀전
