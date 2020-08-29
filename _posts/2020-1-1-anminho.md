@@ -7,7 +7,7 @@ title: 개인 별 랭킹 - 안민호
 개인 별 랭킹 - 안민호
 
 
-last updated: 8-26-2020
+last updated: 8-29-2020
 
 
 ### 팀전
