@@ -7,7 +7,7 @@ title: 개인 별 랭킹 - 송상민
 개인 별 랭킹 - 송상민
 
 
-last updated: 8-29-2020
+last updated: 9-4-2020
 
 
 ### 팀전

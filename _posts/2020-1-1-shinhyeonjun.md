@@ -7,7 +7,7 @@ title: 개인 별 랭킹 - 신현준
 개인 별 랭킹 - 신현준
 
 
-last updated: 8-29-2020
+last updated: 9-4-2020
 
 
 ### 팀전

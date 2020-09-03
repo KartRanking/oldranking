@@ -7,7 +7,7 @@ title: 개인 별 랭킹 - 박천원
 개인 별 랭킹 - 박천원
 
 
-last updated: 8-29-2020
+last updated: 9-4-2020
 
 ### [개인전: 종합](../singles-full)
 
