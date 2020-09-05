@@ -7,7 +7,7 @@ title: 개인 별 랭킹 - 김경민
 개인 별 랭킹 - 김경민
 
 
-last updated: 9-4-2020
+last updated: 9-5-2020
 
 
 ### 팀전
