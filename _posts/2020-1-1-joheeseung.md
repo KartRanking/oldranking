@@ -7,7 +7,7 @@ title: 개인 별 랭킹 - 조희승
 개인 별 랭킹 - 조희승
 
 
-last updated: 9-4-2020
+last updated: 9-5-2020
 
 
 ### 팀전
