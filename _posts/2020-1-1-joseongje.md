@@ -7,7 +7,7 @@ title: 개인 별 랭킹 - 조성제
 개인 별 랭킹 - 조성제
 
 
-last updated: 9-5-2020
+last updated: 9-9-2020
 
 ### [개인전: 종합](../singles-full)
 
