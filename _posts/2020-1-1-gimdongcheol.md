@@ -7,7 +7,7 @@ title: 개인 별 랭킹 - 김동철
 개인 별 랭킹 - 김동철
 
 
-last updated: 9-9-2020
+last updated: 9-12-2020
 
 
 ### 팀전
