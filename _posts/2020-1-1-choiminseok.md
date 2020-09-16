@@ -7,7 +7,7 @@ title: 개인 별 랭킹 - 최민석
 개인 별 랭킹 - 최민석
 
 
-last updated: 9-12-2020
+last updated: 9-16-2020
 
 ### [개인전: 종합](../singles-full)
 
