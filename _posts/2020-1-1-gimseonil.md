@@ -7,7 +7,7 @@ title: 개인 별 랭킹 - 김선일
 개인 별 랭킹 - 김선일
 
 
-last updated: 9-12-2020
+last updated: 9-16-2020
 
 ### [개인전: 종합](../singles-full)
 
