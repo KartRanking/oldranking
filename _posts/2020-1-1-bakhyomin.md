@@ -7,7 +7,7 @@ title: 개인 별 랭킹 - 박효민
 개인 별 랭킹 - 박효민
 
 
-last updated: 9-19-2020
+last updated: 9-24-2020
 
 ### [개인전: 종합](../singles-full)
 

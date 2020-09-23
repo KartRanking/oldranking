@@ -7,7 +7,7 @@ title: 개인 별 랭킹 - 박준혁
 개인 별 랭킹 - 박준혁
 
 
-last updated: 9-19-2020
+last updated: 9-24-2020
 
 
 ### 팀전
