@@ -7,7 +7,7 @@ title: 개인 별 랭킹 - 최성연
 개인 별 랭킹 - 최성연
 
 
-last updated: 9-24-2020
+last updated: 9-26-2020
 
 
 ### 팀전
