@@ -7,7 +7,7 @@ title: 개인 별 랭킹 - 박대한
 개인 별 랭킹 - 박대한
 
 
-last updated: 10-14-2020
+last updated: 10-15-2020
 
 
 ### 팀전

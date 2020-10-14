@@ -7,7 +7,7 @@ title: 개인 별 랭킹 - 김택진
 개인 별 랭킹 - 김택진
 
 
-last updated: 10-14-2020
+last updated: 10-15-2020
 
 
 ### 팀전
