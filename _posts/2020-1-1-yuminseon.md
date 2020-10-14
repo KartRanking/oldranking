@@ -7,7 +7,7 @@ title: 개인 별 랭킹 - 유민선
 개인 별 랭킹 - 유민선
 
 
-last updated: 10-10-2020
+last updated: 10-14-2020
 
 
 ### 팀전
