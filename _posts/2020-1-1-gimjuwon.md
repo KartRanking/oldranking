@@ -7,7 +7,7 @@ title: 개인 별 랭킹 - 김주원
 개인 별 랭킹 - 김주원
 
 
-last updated: 10-10-2020
+last updated: 10-14-2020
 
 ### [개인전: 종합](../singles-full)
 
