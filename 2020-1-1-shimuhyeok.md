@@ -7,7 +7,7 @@ title: 개인 별 랭킹 - 심우혁
 개인 별 랭킹 - 심우혁
 
 
-last updated: 9-24-2020
+last updated: 10-15-2020
 
 ### [개인전: 종합](../singles-full)
 
