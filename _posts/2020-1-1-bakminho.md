@@ -7,7 +7,7 @@ title: 개인 별 랭킹 - 박민호
 개인 별 랭킹 - 박민호
 
 
-last updated: 10-18-2020
+last updated: 10-21-2020
 
 ### [개인전: 종합](../singles-full)
 
