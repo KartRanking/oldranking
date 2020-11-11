@@ -7,7 +7,7 @@ title: 개인 별 랭킹 - 강성혁
 개인 별 랭킹 - 강성혁
 
 
-last updated: 10-21-2020
+last updated: 11-11-2020
 
 
 ### 팀전
