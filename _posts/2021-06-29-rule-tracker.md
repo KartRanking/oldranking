@@ -2,11 +2,13 @@
 layout: post
 title: 2021 시즌 1 규정 트래커
 ---
+
+최종 업데이트: 2021-02-25
+
 여러 가지 논란 끝에 넥슨은 규정을 공개하며 리그 운영에 있어 투명한 정보 공개를 약속했습니다.
 이에 시즌 중 규정 변경 사항과 여러 이슈를 이 포스트에 정리하고자 합니다. 주로 제7조 경기 규칙을 다룰 예정이나 필요에 따라 다른 부분도 다룰 수 있습니다.
 독자 여러분의 제보도 환영합니다.
 
-최종 업데이트: 2021-02-25
 
 - [2021-02-25 개정 규정](https://drive.google.com/file/d/1DAG4tIDW113wBY-fSe4JilZMnaCNVJs0/view)
 - [초기 공개 규정 링크](https://drive.google.com/file/d/19g9LzjhLCHP9WBJ5DBoq0emRZQCdAPFG/view)
