@@ -11,7 +11,7 @@ title: 2021 시즌 1 규정 트래커
 
 
 - [2021-02-25 개정 규정](https://drive.google.com/file/d/1DAG4tIDW113wBY-fSe4JilZMnaCNVJs0/view)
-- [초기 공개 규정 링크](https://drive.google.com/file/d/19g9LzjhLCHP9WBJ5DBoq0emRZQCdAPFG/view)
+- [초기 공개 규정](https://drive.google.com/file/d/19g9LzjhLCHP9WBJ5DBoq0emRZQCdAPFG/view)
 - [과거 규정: 2020 시즌 1](https://drive.google.com/file/d/1ih1hFoY8FgR2lWyeyOCYrn2YVXyAifjV/view)
 
 ## 시즌 중 변경 사항
@@ -56,7 +56,7 @@ title: 2021 시즌 1 규정 트래커
 
 #### 수정: 제7조 라 10. 팀전 풀리그 타이브레이커
 
-종전 승자승→세트 득실→트랙 득실 순서가 단순 오기입이라고 합니다. 다시 세트 득실-트랙 득실-승자승 순으로 변경되었습니다. 이렇게 되면 3팀 이상이 승자승을 비교하게 될 확률은 현저히 낮아지지만 여전히 승자승의 비교 대상과 동률의 일부가 깨졌을 때 재시작 여부에 대한 규정은 필요합니다. 
+종전 승자승→세트 득실→트랙 득실 순서가 단순 오기입이라고 합니다. 다시 세트 득실-트랙 득실-승자승 순으로 변경되었습니다. 이렇게 되면 3팀 이상이 승자승을 비교하게 될 확률이 낮아질 뿐 여전히 승자승의 비교 대상과 동률의 일부가 깨졌을 때 재시작 여부에 대한 규정은 필요합니다. 
 
 왜 이런 실수가 있을 수 있었던 건지 궁금했는데, [2020 시즌 1 규정](https://drive.google.com/file/d/1ih1hFoY8FgR2lWyeyOCYrn2YVXyAifjV/view)을 보니 당시에는 세트 득실-트랙 득실-승자승에 관한 언급 자체도 없었네요.
 
