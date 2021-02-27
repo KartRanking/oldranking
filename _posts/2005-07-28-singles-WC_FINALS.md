@@ -13,7 +13,7 @@ title: 개인전 - 1차리그 - 와일드카드 파이널
 ### 1st 확률
 
 
-![](../images_old/WC_FINALS-1st.png)
+![](../images/WC_FINALS-1st.png)
 
 x축: 트랙, y축: 확률
 1번: 옐로우, 2번: 블랙, 3번: 레드, 4번: 화이트(회색), 5번: 퍼플, 6번: 그린, 7번: 블루, 8번: 오렌지
@@ -32,7 +32,7 @@ x축: 트랙, y축: 확률
 ### Advance 확률
 
 
-![](../images_old/WC_FINALS-Advance.png)
+![](../images/WC_FINALS-Advance.png)
 
 x축: 트랙, y축: 확률
 1번: 옐로우, 2번: 블랙, 3번: 레드, 4번: 화이트(회색), 5번: 퍼플, 6번: 그린, 7번: 블루, 8번: 오렌지
