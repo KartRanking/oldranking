@@ -13,7 +13,7 @@ title: 개인전 - 1차리그 - 그랜드 파이널
 ### 1st 확률
 
 
-![](../images_old/GRAND_FINALS-1st.png)
+![](../images/GRAND_FINALS-1st.png)
 
 x축: 트랙, y축: 확률
 1번: 옐로우, 2번: 블랙, 3번: 레드, 4번: 화이트(회색), 5번: 퍼플, 6번: 그린, 7번: 블루, 8번: 오렌지
@@ -35,7 +35,7 @@ x축: 트랙, y축: 확률
 ### Top2 확률
 
 
-![](../images_old/GRAND_FINALS-Top2.png)
+![](../images/GRAND_FINALS-Top2.png)
 
 x축: 트랙, y축: 확률
 1번: 옐로우, 2번: 블랙, 3번: 레드, 4번: 화이트(회색), 5번: 퍼플, 6번: 그린, 7번: 블루, 8번: 오렌지
@@ -57,7 +57,7 @@ x축: 트랙, y축: 확률
 ### Top3 확률
 
 
-![](../images_old/GRAND_FINALS-Top3.png)
+![](../images/GRAND_FINALS-Top3.png)
 
 x축: 트랙, y축: 확률
 1번: 옐로우, 2번: 블랙, 3번: 레드, 4번: 화이트(회색), 5번: 퍼플, 6번: 그린, 7번: 블루, 8번: 오렌지
